@@ -6,6 +6,8 @@
 
 Snap a photo of a pothole, a leak, a broken light — CivicPulse AI sees it, scores it, and routes it to the right department before you've finished typing a report.
 
+🏆 Built for **Vibe2Ship** — India's Biggest Vibe Coding Hackathon by Coding Ninjas × Google for Developers, hosted by **Coding Ninjas 10X Club**.
+
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -400,6 +402,7 @@ GitHub: [@varshinisomineni](https://github.com/varshinisomineni)
 
 ## 🙏 Acknowledgments
 
+- Built for **Vibe2Ship** — India's Biggest Vibe Coding Hackathon by **Coding Ninjas × Google for Developers**, hosted by the **Coding Ninjas 10X Club**
 - [Google Gemini](https://ai.google.dev/) for multimodal vision and language reasoning
 - [Firebase](https://firebase.google.com/) for real-time data and hosting infrastructure
 - [Next.js](https://nextjs.org/) and [FastAPI](https://fastapi.tiangolo.com/) for the application framework

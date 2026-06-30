@@ -204,36 +204,35 @@ This encourages collaborative civic participation.
 
 ## AI Report Generation
 
-![AI Analysis](<img width="1771" height="870" alt="Screenshot 2026-07-01 013152" src="https://github.com/user-attachments/assets/b373c6ac-acba-4c39-b470-64a305011f67" />
-)
+<img width="1771" height="870" alt="Screenshot 2026-07-01 013152" src="https://github.com/user-attachments/assets/b373c6ac-acba-4c39-b470-64a305011f67" />
+
 
 ---
 
 ## Issue Details
 
-![Issue Details](<img width="1913" height="867" alt="Screenshot 2026-07-01 013244" src="https://github.com/user-attachments/assets/ce697c79-b2e1-42ac-93f0-a01bf6861c85" />
-)
+<img width="1913" height="867" alt="Screenshot 2026-07-01 013244" src="https://github.com/user-attachments/assets/ce697c79-b2e1-42ac-93f0-a01bf6861c85" />
+
 
 ---
 
 ## Community Discussion
 
-![Community](<img width="1578" height="858" alt="Screenshot 2026-07-01 013401" src="https://github.com/user-attachments/assets/b1b28158-10f3-4104-bd83-78d8da2432bf" />
-)
+<img width="1578" height="858" alt="Screenshot 2026-07-01 013401" src="https://github.com/user-attachments/assets/b1b28158-10f3-4104-bd83-78d8da2432bf" />
+
 
 ---
 
 ## Admin Login
 
-![Admin Login](<img width="1456" height="698" alt="Screenshot 2026-07-01 013503" src="https://github.com/user-attachments/assets/146ea6b3-4617-428e-a051-06fcf6e250f9" />)
+<img width="1456" height="698" alt="Screenshot 2026-07-01 013503" src="https://github.com/user-attachments/assets/146ea6b3-4617-428e-a051-06fcf6e250f9" />
 
 
 ---
 
 ## Admin Dashboard
 
-![Admin Dashboard](<img width="1542" height="802" alt="Screenshot 2026-07-01 013635" src="https://github.com/user-attachments/assets/9a7924f2-3e87-44a9-98a1-d227f821418e" />
-)
+<img width="1542" height="802" alt="Screenshot 2026-07-01 013635" src="https://github.com/user-attachments/assets/9a7924f2-3e87-44a9-98a1-d227f821418e" />
 
 ---
 

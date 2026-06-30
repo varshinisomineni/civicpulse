@@ -14,6 +14,7 @@ Snap a photo of a pothole, a leak, a broken light — CivicPulse AI sees it, sco
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active%20development-orange)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [Live Demo](#-live-demo) • [Overview](#-overview) • [Features](#-features) • [Architecture](#-system-architecture) • [AI Agents](#-the-ai-agent-pipeline) • [Getting Started](#-getting-started) • [API Reference](#-api-reference) • [Roadmap](#-roadmap)
 
@@ -381,7 +382,12 @@ Contributions, issues, and feature requests are welcome.
 
 ## 📄 License
 
-No license has been set for this project yet. Until one is added, all rights are reserved by default — add a `LICENSE` file (MIT is a common choice for open-source civic-tech projects) before accepting outside contributions or publishing more broadly.
+This project is licensed under the **MIT License** — see [`LICENSE`](LICENSE) for the full text.
+
+```
+MIT License
+Copyright (c) 2026 Varshini Somineni
+```
 
 <br />
 
